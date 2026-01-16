@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "auther": "Harper Lee",
+            "barcode": "9780743273565",
+            "category": "Fiction",
+            "title": "To Kill a Mockingbird"
+        },
+        {
+            "auther": "F. Scott Fitzgerald",
+            "barcode": "9780743273565",
+            "category": "Classic",
+            "title": "The Great Gatsby"
+        }
+    ]
+}
