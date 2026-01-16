@@ -68,7 +68,7 @@ Each book contains:
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Video
 Drive Link: https://drive.google.com/file/d/1hir0M3g8dvlIgkXaPwoeFqd5P8CXEwxv/view?usp=sharing
 ---
 
