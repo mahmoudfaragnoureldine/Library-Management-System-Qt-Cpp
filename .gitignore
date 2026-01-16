@@ -7,6 +7,16 @@
 *.o
 *.obj
 
+# Qt specific
+*.pro.user
+*.user
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Qt build folders
+build/
+
 # Precompiled Headers
 *.gch
 *.pch
