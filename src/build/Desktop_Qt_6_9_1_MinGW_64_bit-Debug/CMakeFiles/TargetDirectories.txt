@@ -1,0 +1,9 @@
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/src.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/src_autogen_timestamp_deps.dir
+C:/Users/Administrator/Desktop/GitHup projects/Library-Management-System-Qt-Cpp/src/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/src_autogen.dir
